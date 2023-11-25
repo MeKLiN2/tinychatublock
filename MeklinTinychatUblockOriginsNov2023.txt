@@ -1,0 +1,227 @@
+!theBLOCKweenieFROMeverCAMMINGupONmyPCscript
+!madeINsebbyROOMbyMeKLiNonTHISdate
+!6/22/2019 https://tinychat.com
+!lastedit-jun-12-2022
+!
+!TOOGLEMENU
+!
+!othercamsgamermode
+!unexclamationTHESEtoEXTREMEgamerMODE
+!tinychat.com###videos > div:nth-child(2) > div:nth-child(1)
+!tinychat.com###videos > div:nth-child(2) > div:nth-child(2)
+!tinychat.com###videos > div:nth-child(2) > div:nth-child(3)
+!tinychat.com###videos > div:nth-child(2) > div:nth-child(4)
+!tinychat.com###videos > div:nth-child(2) > div:nth-child(5)
+!tinychat.com###videos > div:nth-child(2) > div:nth-child(6)
+!tinychat.com###videos > div:nth-child(2) > div:nth-child(7)
+!tinychat.com###videos > div:nth-child(2) > div:nth-child(8)
+!tinychat.com###videos > div:nth-child(2) > div:nth-child(9)
+!tinychat.com###videos > div:nth-child(2) > div:nth-child(10)
+!tinychat.com###videos > div:nth-child(2) > div:nth-child(11)
+!tinychat.com###videos > div:nth-child(2) > div:nth-child(12)
+!otherCAMSend
+tinychat.com##head > script:nth-child(65)
+!
+tinychat.com##html.js.cookies.audio.video.pointerevents.fullscreen.getusermedia.no-touchevents head script
+!endtoogle
+!
+!nicknamecolorORavatarz
+tinychat.com##.nickname:style(color: white !important;)
+tinychat.com##.avatar:style(color: white !important;)
+!
+tinychat.com###sidemenu:style(background-color: indigo !important;)
+tinychat.com###sidemenu:style(position: left !important;)
+tinychat.com###sidemenu:style(min-width: 100px !important;)
+tinychat.com###sidemenu:style(max-width: 100px !important;)
+tinychat.com###sidemenu:style(left: 0px !important;)
+tinychat.com###sidemenu-content:style(max-width: 200px !important;)
+tinychat.com###sidemenu-content:style(min-width: 200px !important;)
+tinychat.com###sidemenu-content:style(width: 200px !important;)
+!sidemenusize
+!giftbuttonz
+tinychat.com###chatlist div.list-item span span span.send-gift
+tinychat.com###chatlist div.list-item span span
+!endgift
+!systemmessagesbans
+tinychat.com###chatlist div.list-item span span span > html.message.system #html 
+tinychat.com###chatlist div.list-item span html.message.system
+tinychat.com###chat-content >  html.message.system
+tinychat.com###chat-content html.message.system
+tinychat.com###chat-content:style(background-color: blue !important;)
+!workingchatmsgexample
+tinychat.com###chat-content > div:style(background-color: black !important;)
+!testbeginsysmsg
+tinychat.com###chat-content > html.message.system
+tinychat.com###chat-content > html > message.system
+!test2
+tinychat.com##html.message.common:(color: white !important;)
+tinychat.com###html.message.common:(color: white !important;)
+#WORKING ONE -- tinychat.com###html.message.common:style(color: white !important;)
+#WORKINGCHANGETOREDSYSMSGFIXBELOW
+#tinychat.com###html.message.system:style(color: red !important;)
+#WORKINGDELETESYSMSGBELOWblackbartestStart
+tinychat.com###html.message.system
+!FAILABOVEANDBELOW
+tinychat.com###message system
+tinychat.com###message.system
+tinychat.com##
+!test2endedandGOOD
+!endworking
+!test3
+#tinychat.com###html.message.system:style(color: red !important;)
+!workingREDabove
+!TOPLEFTSYSMSGBELOW
+tinychat.com###html.message.system:style(color: red; position: absolute; top: 0; left:0; !important;)
+!ENDTOPLEVELSYSMSG
+!fixfoundbelowsysmsg
+tinychat.com##.message.system
+tinychat.com##.message system
+!endsysmg
+!behindcamsbgcolor
+tinychat.com###room:style(background-color: black !important;)
+!behindcamsbgcolor
+!videolist
+tinychat.com###videlist:style(left: 200px !important;)
+!videolist
+tinychat.com###room-header
+tinychat.com###nav-static
+tinychat.com###nav-static-wrapper
+tinychat.com###nav-fixed-wrapper
+tinychat.com###input-menu
+tinychat.com###input-users
+tinychat.com###input-menus
+tinychat.com###input-user
+tinychat.com###modal-content-fatalerror
+tinychat.com###sidemenu-wider
+tinychat.com###modal-show
+tinychat.com###modal-window
+tinychat.com###user-info
+tinychat.com###users-icon
+tinychat.com###close-users
+tinychat.com###top-buttons-wrapper
+tinychat.com###menu-icon
+tinychat.com###chat-wider
+tinychat.com###nav-menu
+tinychat.com###no-support
+tinychat.com###body > iframe:nth-child(21)
+tinychat.com###body > script:nth-child(20)
+tinychat.com###body > script:nth-child(19)
+tinychat.com###body > script:nth-child(15)
+tinychat.com###mobile-app
+tinychat.com###Intercom
+tinychat.com###body > style
+tinychat.com###body > script:nth-child(13)
+tinychat.com###body > script:nth-child(14)
+tinychat.com###input-sandwich
+tinychat.com###js-user-list-item
+tinychat.com###menu-icon-general
+tinychat.com###videos-content:style(background-color: orange !important;)
+tinychat.com###chat-content:style(background-color: blue !important;)
+tinychat.com###videos-footer:style(background-color: red !important;)
+tinychat.com###chat-wrapper:style(background-color: black !important;)
+tinychat.com###chat-content > div:nth-child(175) > a.nickname
+tinychat.com###chat-content > div > a:nth-child(1) > div
+tinychat.com###chat-content > div:nth-child(3) > a:nth-child(1) > div
+tinychat.com##.html:style(color: white !important;)
+tinychat.com###html.message.common:style(color: white !important;)
+sofifa.com##td.text-center.col:nth-of-type(5) > .col-pt.col-digit:style(font-size: 0)
+tinychat.com##html.message.common:(color: white !important;)
+tinychat.com###html.message.common:(color: white !important;)
+tinychat.com###chat-content > .message.common, #chat-content-new > .message.common:style(color: white !important;)
+tinychat.com###chat-content > .message.common, #chat-content-new > .nickname:style(color: white !important;)
+tinychat.com###chat-content > .message.common, #chat-content-new > .a.nickname:style(color: white !important;)
+
+
+tinychat.com###chat-content > .message > .nickname(font-color: white !important;)
+
+yourWebsite.com##.unique-id:style(display: none !important)
+
+tinychat.com##chat-wrapper div#chat-position div#chat.on-white-scroll div#chat-content div.message.common a.nickname:style(color: white !important;)
+
+tinychat.com###chatcontent > div.message.common > div.content > tc-message.html:style(color: white !important;)
+
+tinychat.com###chatcontent > div.message.common > div.content > a.nickname:style(color: white !important;)
+
+tinychat.com###chat-content > #message.common > #content > tc-essage.html > .html.message.common:style(color: white !important;)
+
+!testmsgcolorend
+!good
+tinychat.com###input-unread
+!good CHAT TEXT BG
+tinychat.com###chat-content > div:style(background-color: black !important;)
+tinychat.com##.html.message.common:style(font-color: white !important;)
+!msg test
+tinychat.com###chatcontent > div.message.common >div.content > tc-message.html:style(font-color: white !important;)
+!msgtestend
+tinychat.com###chat-content > div > div > tc-message-html:style(font-color: white !important;)
+tinychat.com###chat-content > div > div > tc-message-html > #html:style(font-color: white !important;)
+!here---v new
+tinychat.com###chat-content > div:nth-child(n) > a.nickname:style(font-color: white !important;)
+!good----V idk
+tinychat.com###chat-content > div:nth-child() > div > tc-message-html(background-color: green !important;)
+tinychat.com##div .message(font-color: white !important;)
+tinychat.com###pro-2
+tinychat.com###pro-3
+tinychat.com###pro-4
+tinychat.com###extreme-1
+tinychat.com##extreme-2
+tinychat.com###extreme-3
+tinychat.com###gold-1
+tinychat.com###gold-2
+tinychat.com###gold-3
+tinychat.com###button-pro-1
+tinychat.com###button-pro-2
+tinychat.com###button-extreme-1
+tinychat.com###button-gold-1
+tinychat.com###pro-1
+tinychat.com###pro-2
+tinychat.com###pro-3
+tinychat.com###pro-4
+tinychat.com###button-pro-1
+tinychat.com###button-pro-2
+tinychat.com###extreme-1
+tinychat.com###extreme-2
+tinychat.com###extreme-3
+tinychat.com###button-extreme-1
+tinychat.com###gold-1
+tinychat.com###gold-2
+tinychat.com###gold-3
+!nastyspywaretrackersblockedwithUBLOCKORIGINSuiselectorbelow
+!2022-06-12 https://tinychat.com
+||avatars.tinychat.com^$image,1p
+||script.crazyegg.com^$script,domain=tinychat.com
+||geolocation.onetrust.com^$script,domain=tinychat.com
+||ajax.googleapis.com^$script,domain=tinychat.com
+||tinychat.com/pushnotification/check$xhr,1p
+||tinychat.com/webrtc/2.0.0-13/bower_components/webcomponentsjs/webcomponents-hi.js$script,1p
+||www.gstatic.com^$script,domain=tinychat.com
+||cdn.cookielaw.org^$script,domain=tinychat.com
+||tinychat.com/webrtc/2.0.0-13/images/*$image,1p
+||tinychat.com/webrtc/2.0.0-13/bower_components/webcomponentsjs/webcomponents-loader.js$script,1p
+||tinychat.com/webrtc/2.0.0-13/modernizr-custom.js$script,1p
+||tinychat.com/js/PushNotification/push-notification.js$script,1p
+||tinychat.com/js/PushNotification/push-service-config.js$script,1p
+||tinychat.com/js/PushNotification/*$script,1p
+||tinychat.com/js/jquery-1.12.0.min.js$script,1p
+||www.googletagmanager.com^$script,domain=tinychat.com
+||www.googletagmanager.com/gtm.js$script,domain=tinychat.com
+||ssl.google-analytics.com^$script,domain=tinychat.com
+||ssl.google-analytics.com/ga.js$script,domain=tinychat.com
+||ssl.google-analytics.com^
+||www.googletagmanager.com^
+@@||tinychat.com/webrtc/2.0.0-13/bower_components/webcomponentsjs/webcomponents-loader.js$script,1p
+@@||tinychat.com/webrtc/2.0.0-13/bower_components/webcomponentsjs/webcomponents-hi.js$script,1p
+
+! 2023-08-27 https://tinychat.com
+||tinychat.com/webrtc/2.0.0-18/images/favicon.png$image,1p
+||www.googletagmanager.com/gtag/js?id=AW-701105856$script,domain=tinychat.com
+
+! 2023-11-24 https://tinychat.com
+||media.vocaroo.com^$domain=tinychat.com
+||www.youtube.com^$domain=tinychat.com
+||youtube-ui.l.google.com^$domain=tinychat.com
+||proxy.stream.statsradio.com^$domain=tinychat.com
+||vocaroolivemedia.b-cdn.net^$domain=tinychat.com
+||www.googletagmanager.com^$domain=tinychat.com
+||ssl.google-analytics.com^$domain=tinychat.com
+
